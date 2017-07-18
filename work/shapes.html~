@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>shapes</title>
+		<script type="text/javascrpt" src="shapes.js"></script>
+		<script type="text/javascrpt" src="p5.js"></script>
+	</head>
+	<body>
+	</body>
+</html>
+
